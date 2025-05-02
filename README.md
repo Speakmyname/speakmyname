@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Praise Nyuell 
+- 👋 Hi, I’m Praise Ekong 
 - 👀 I’m interested in Design and 3d
 - 🌱 I’m currently learning SWE
 - 😄 Pronouns: he/him
